@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+ <movies>
+	<movie name="小美人鱼" num="1">
+		<actor>菲儿</actor>
+		<director>奥兹拉比</director>
+		<price>29</price>
+		<date>2019-01-13</date>
+	</movie>
+	<movie name="飞黄腾达" num="2">
+		<actor>Trump</actor>
+		<director>菲茨杰拉德</director>
+		<price>27</price>
+		<date>2020-01-03</date>
+	</movie>
+	<movie name="奥本海默" num="3">
+		<actor>菲亚特</actor>
+		<director>希区柯克</director>
+		<price>28</price>
+		<date>2020-06-07</date>
+	</movie>
+	<movie name="高卢战记" num="4">
+		<actor>中本聪</actor>
+		<director>昂奇</director>
+		<price>24</price>
+		<date>2020-04-03</date>
+	</movie>
+</movies>
