@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recordings> 
+  <recording> 
+    <person>张晴</person>  
+    <dishName>红烧带鱼</dishName>  
+    <amount>2</amount>  
+    <address>天成路27号</address>  
+    <status>1</status>  
+    <price>76.0</price>  
+    <time>13</time> 
+  </recording>  
+  <recording> 
+    <person>张晴</person>  
+    <dishName>鱼香肉丝</dishName>  
+    <amount>2</amount>  
+    <address>天成路27号</address>  
+    <status>0</status>  
+    <price>45.0</price>  
+    <time>10</time> 
+  </recording> 
+</recordings>

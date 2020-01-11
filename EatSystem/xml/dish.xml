@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dishs>
+
+<dish>
+ <name>红烧带鱼</name>
+ <price>38.0</price>
+ <likeNum>1</likeNum>
+</dish>
+
+
+<dish>
+ <name>鱼香肉丝</name>
+ <price>20.0</price>
+ <likeNum>1</likeNum>
+</dish>
+
+
+<dish>
+ <name>时令鲜蔬</name>
+ <price>10.0</price>
+ <likeNum>0</likeNum>
+</dish>
+
+
+
+
+
+</dishs>
