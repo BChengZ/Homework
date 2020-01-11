@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<giveaways>
+	<giveaway>
+		<name>CD</name>
+		<price>27.5</price>
+	</giveaway>
+	<giveaway>
+		<name>包装</name>
+		<price>2.7</price>
+	</giveaway>
+	<giveaway>
+		<name>钢笔</name>
+		<price>10</price>
+	</giveaway>
+
+</giveaways>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+
+	<book>
+		<id>10001</id>
+		<name>鬼吹灯</name>
+		<author>天下霸唱</author>
+		<date>2008-7-1</date>
+		<price>27.8</price>
+		<amount>80</amount>
+	</book>
+
+	<book>
+		<id>10002</id>
+		<name>魔戒1</name>
+		<author>摩尔斯</author>
+		<date>2005-3-14</date>
+		<price>54.0</price>
+		<amount>13</amount>
+	</book>
+	
+	<book>
+		<id>10003</id>
+		<name>哈利波特1</name>
+		<author>罗琳</author>
+		<date>2003-2-14</date>
+		<price>43.5</price>
+		<amount>96</amount>
+	</book>
+
+</books>
